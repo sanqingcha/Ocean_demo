@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.test01.cpp.obj": [
+			"test01.cpp.obj"
+		]
+	}
+}
