@@ -51,7 +51,7 @@
 /DWITH_CEF3=1
 /DWITH_LIVE_CODING=1
 /DUE_LIVE_CODING_ENGINE_DIR="D:\\my_epic\\UE_5.3\\Engine"
-/DUE_LIVE_CODING_PROJECT="D:\\my_project\\test01\\test01.uproject"
+/DUE_LIVE_CODING_PROJECT="D:\\Git_Cooperation\\gitku\\Ocean_demo\\test01\\test01.uproject"
 /DWITH_CPP_MODULES=0
 /DWITH_CPP_COROUTINES=0
 /DWITH_PROCESS_PRIORITY_CONTROL=0
@@ -60,7 +60,7 @@
 /DUBT_COMPILED_PLATFORM=Win64
 /DUBT_COMPILED_TARGET=Game
 /DUE_APP_NAME="UnrealGame"
-/DUE_ENGINE_DIRECTORY="../../../../my_epic/UE_5.3/Engine/"
+/DUE_ENGINE_DIRECTORY="../../../../../../my_epic/UE_5.3/Engine/"
 /DNDIS_MINIPORT_MAJOR_VERSION=0
 /DWIN32=1
 /D_WIN32_WINNT=0x0601
@@ -77,5 +77,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=test01
-/fo "D:\my_project\test01\Intermediate\Build\Win64\x64\test01\Development\Default.rc2.res"
+/fo "D:\Git_Cooperation\gitku\Ocean_demo\test01\Intermediate\Build\Win64\x64\test01\Development\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

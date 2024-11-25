@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\my_project\\test01\\intermediate\\build\\win64\\x64\\unrealgame\\development\\test01\\module.test01.cpp",
+        "Source": "d:\\git_cooperation\\gitku\\ocean_demo\\test01\\intermediate\\build\\win64\\x64\\unrealgame\\development\\test01\\module.test01.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\my_project\\test01\\intermediate\\build\\win64\\x64\\test01\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "PCH": "d:\\git_cooperation\\gitku\\ocean_demo\\test01\\intermediate\\build\\win64\\x64\\test01\\development\\core\\sharedpch.core.cpp17.h.pch",
         "Includes": [
-            "d:\\my_project\\test01\\intermediate\\build\\win64\\x64\\unrealgame\\development\\test01\\definitions.test01.h",
-            "d:\\my_project\\test01\\intermediate\\source\\test01.cpp"
+            "d:\\git_cooperation\\gitku\\ocean_demo\\test01\\intermediate\\build\\win64\\x64\\unrealgame\\development\\test01\\definitions.test01.h",
+            "d:\\git_cooperation\\gitku\\ocean_demo\\test01\\intermediate\\source\\test01.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
